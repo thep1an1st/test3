@@ -1,0 +1,11 @@
+{
+  "request": [
+    {
+        "title": "Herren 1",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/instaclone-3bbaf.appspot.com/o/MTeamsImgs%2Fimage0.jpeg?alt=media&token=18280f92-db02-40f0-a9fd-8fb5c57c942d",
+        "urlString": "https://www.wtb-tennis.de/spielbetrieb/vereine/verein/mannschaften/mannschaft/v/20676/m/2705807.html",
+        "players": ["Jurica", "Tim Bla", "Levi", "Ferdi", "Tim", "Aaron", "Timo", "Marijo", "Tin"],
+        "image": "image0")
+    }
+  ]
+}
